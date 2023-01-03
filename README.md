@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jothanzodiathesjz
 - 👀 I’m interested in javascript 
-- 🌱 I’m currently learning fron end
+- 🌱 I’m currently learning front end
 
 <!---
 jothanzodiathesjz/jothanzodiathesjz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
